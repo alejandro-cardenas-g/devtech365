@@ -1,0 +1,12 @@
+.linkItem {
+  color: var(--color4);
+}
+
+.linkItem:hover {
+  transition: color 0.3s ease-in;
+  color: var(--color2);
+}
+
+.linkItemActive {
+  color: var(--color2);
+}

@@ -1,0 +1,11 @@
+.menuHeader {
+  display: flex;
+  align-items: center;
+  min-height: var(--heightMenu);
+  max-height: calc(var(--heightMenu) + 1rem);
+  background-color: var(--color1);
+  color: var(--color4);
+  padding-left: 1rem;
+  padding-right: 1rem;
+  justify-content: space-between;
+}
